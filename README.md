@@ -1,4 +1,4 @@
-# twitter_account_analysis
+## Analyzing your Twitter Account
 quick overview of tweets (retweets, likes, sentiments via histogram, heatmaps) 
 
 Check Outcome here: https://chrvoigt.github.io/twitter_account_analysis/ 
